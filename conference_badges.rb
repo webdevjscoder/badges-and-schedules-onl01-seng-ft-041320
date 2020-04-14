@@ -4,7 +4,8 @@ def badge_maker(name)
 end
 
 def batch_badge_creator(array)
-  array = badge_maker(name)
+  array = 
+  "Hello, my name is #{name}."
 end
 
 def assign_rooms(speaker, room)
