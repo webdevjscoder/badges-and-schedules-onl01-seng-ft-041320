@@ -4,7 +4,7 @@ def badge_maker(name)
 end
 
 def batch_badge_creator(array)
-  messages
+  array = message
 end
 
 def assign_rooms(speaker, room)
