@@ -6,7 +6,7 @@ end
 def batch_badge_creator(attendees)
   badges = []
   attendees.each do |attendent|
-    "Hello, my name is #{attendent}."
+    "Hello, my name is #{attendees}."
     badges << attendent
   end
    badges
