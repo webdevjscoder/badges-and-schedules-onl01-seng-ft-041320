@@ -5,10 +5,6 @@ end
 
 def batch_badge_creator(array)
   array = ["Edsger", "Ada", "Charles", "Alan", "Grace", "Linus", "Matz"]
-  array.each do |attendees|
-    array
-  end
-   array
 end
 
 def assign_rooms(speaker, room)
