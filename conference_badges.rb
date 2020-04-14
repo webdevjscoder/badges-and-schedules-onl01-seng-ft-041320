@@ -10,3 +10,8 @@ end
 def assign_rooms(speaker, room)
   "Hello, #{}! You'll be assigned to room #{}!"
 end 
+
+def printer
+  print batch_badge_creator
+  print assign_rooms
+end 
